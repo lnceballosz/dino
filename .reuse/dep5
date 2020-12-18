@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: dino
+Upstream-Contact: Dino contributors <team@dino.im>
+Source: https://github.com/dino/dino
+
+
+Files: *main/data/icons/* *main/src/ui/* *xmpp-vala/*
+Copyright: 2016-2020 Dino contributors <team@dino.im>
+License: GPL-3.0-or-later
