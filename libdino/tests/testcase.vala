@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2009 Julien Peeters <contact@julienpeeters.fr>
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: LGPL-2.1-or-later
 
 
 public abstract class Gee.TestCase : Object {
