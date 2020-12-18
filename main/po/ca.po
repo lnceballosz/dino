@@ -1,6 +1,6 @@
 # Catalan translation for Dino.
-# This file is distributed under the same license as the dino package.
-# Jordi Mallach <jordi@mallach.net>, 2018-2019.
+# SPDX-FileCopyrightText: 2018-2019 Jordi Mallach <jordi@mallach.net>
+# SPDX-License-Identifier: GPL-3.0-or-later
 #
 msgid ""
 msgstr ""

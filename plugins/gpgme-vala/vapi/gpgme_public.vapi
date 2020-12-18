@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2016-2020 Dino contributors <team@dino.im>
+// SPDX-License-Identifier: GPL-3.0-or-later
+
+
 [CCode (lower_case_cprefix = "gpgme_", cheader_filename = "gpgme.h,gpgme_fix.h")]
 namespace GPG {
 

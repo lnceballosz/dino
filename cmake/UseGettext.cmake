@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2016-2020 Dino contributors <team@dino.im>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 function(_gettext_mkdir_for_file file)
   get_filename_component(dir "${file}" DIRECTORY)
   file(MAKE_DIRECTORY "${dir}")

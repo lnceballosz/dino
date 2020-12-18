@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2016-2020 Dino contributors <team@dino.im>
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 namespace Signal {
 
     [CCode (cname = "int", cprefix = "SG_ERR_", cheader_filename = "signal/signal_protocol.h", has_type_id = false)]

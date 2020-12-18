@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2016-2020 Dino contributors <team@dino.im>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 include(PkgConfigWithFallback)
 find_pkg_config_with_fallback(GDK3
     PKG_CONFIG_NAME gdk-3.0

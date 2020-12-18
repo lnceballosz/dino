@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2016-2020 Dino contributors <team@dino.im>
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
+
 ![Dino](https://dino.im/img/readme_header.svg)
 =======
 
@@ -45,3 +51,5 @@ License
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    
+Please notice that some files are licensed under LGPL-2.1-or-later. For accurate information,  please check individual files.	

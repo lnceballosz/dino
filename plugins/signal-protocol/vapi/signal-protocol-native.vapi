@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2016-2020 Dino contributors <team@dino.im>
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 namespace Signal {
     [Compact]
     [CCode (cname = "signal_context", cprefix="signal_context_", free_function="signal_context_destroy", cheader_filename = "signal/signal_protocol.h")]

@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2016-2020 Dino contributors <team@dino.im>
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 namespace Signal.Test {
 
 class Curve25519 : Gee.TestCase {

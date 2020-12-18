@@ -1,3 +1,8 @@
+/*
+SPDX-FileCopyrightText: 2016-2020 Dino contributors <team@dino.im>
+SPDX-License-Identifier: GPL-3.0-or-later
+*/
+
 #include <sys/types.h>
 #define _K ((off_t)1024)
 #define _M ((off_t)1024 * _K)

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2016-2020 Dino contributors <team@dino.im>
+// SPDX-License-Identifier: GPL-3.0-or-later
+
+
 find_packages(QLITE_PACKAGES REQUIRED
     Gee
     GLib

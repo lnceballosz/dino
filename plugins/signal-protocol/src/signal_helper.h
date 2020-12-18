@@ -1,3 +1,8 @@
+/*
+SPDX-FileCopyrightText: 2016-2020 Dino contributors <team@dino.im>
+SPDX-License-Identifier: GPL-3.0-or-later
+*/
+
 #ifndef SIGNAL_PROTOCOL_VALA_HELPER
 #define SIGNAL_PROTOCOL_VALA_HELPER 1
 

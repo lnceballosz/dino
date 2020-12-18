@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2016-2020 Dino contributors <team@dino.im>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 # This file is used to be invoked at build time. It generates the needed
 # resource XML file.
 
